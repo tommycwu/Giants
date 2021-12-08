@@ -100,7 +100,6 @@ C:\Users\Tommy\source\repos\Samples\WebApplication2\bin\Newtonsoft.Json.xml
 C:\Users\Tommy\source\repos\Samples\WebApplication2\bin\Antlr3.Runtime.pdb
 C:\Users\Tommy\source\repos\Samples\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Users\Tommy\source\repos\Samples\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Tommy\source\repos\Samples\WebApplication2\obj\Debug\Giants.csprojAssemblyReference.cache
 C:\Users\Tommy\source\repos\Samples\WebApplication2\obj\Debug\Giants.csproj.CoreCompileInputs.cache
 C:\Users\Tommy\source\repos\Samples\WebApplication2\obj\Debug\Giants.csproj.CopyComplete
 C:\Users\Tommy\source\repos\Samples\WebApplication2\bin\WebApplication1.dll.config
@@ -108,3 +107,4 @@ C:\Users\Tommy\source\repos\Samples\WebApplication2\bin\WebApplication1.dll
 C:\Users\Tommy\source\repos\Samples\WebApplication2\bin\WebApplication1.pdb
 C:\Users\Tommy\source\repos\Samples\WebApplication2\obj\Debug\WebApplication1.dll
 C:\Users\Tommy\source\repos\Samples\WebApplication2\obj\Debug\WebApplication1.pdb
+C:\Users\Tommy\source\repos\Samples\WebApplication2\obj\Debug\Giants.csprojAssemblyReference.cache

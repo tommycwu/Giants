@@ -27,8 +27,8 @@ namespace WebApplication1
                 OktaDomain = "https://baseball.oktapreview.com",//->giants.oktapreview.com
                 ClientId = "0oa6yvej1CibQ2pVa1d6",
                 ClientSecret = "-MaZ0wYKwv7qffYGBjyqnnRhjH8toWtW1rvK6pTX",
-                RedirectUri = "https://localhost:44382",
-                PostLogoutRedirectUri = "https://localhost:44382",
+                RedirectUri = "https://okta-certification.ngrok.io/giants/",
+                PostLogoutRedirectUri = "https://okta-certification.ngrok.io/giants/",
                 Scope = new List<string> { "openid", "profile" },
                 LoginMode = LoginMode.OktaHosted,
             });

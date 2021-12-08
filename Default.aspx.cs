@@ -21,15 +21,14 @@ namespace WebApplication1
             if (!Request.IsAuthenticated)
             {
                 HttpContext.Current.GetOwinContext().Authentication.Challenge(
-                  new AuthenticationProperties { RedirectUri = "/contact.aspx" },
+                  new AuthenticationProperties { RedirectUri = "/giants/contact.aspx" },
                   OpenIdConnectAuthenticationDefaults.AuthenticationType);
             }
         }
 
         protected void Button2_Click(object sender, EventArgs e)
         {
-            Response.Redirect("/signout.aspx");
-
+            Response.Redirect("giants/signout.aspx");
         }
     }
 }

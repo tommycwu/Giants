@@ -1,7 +1,9 @@
 ﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="WebApplication1.Contact" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-    <h2><%: Title %></h2>
+    <h2><%: Title %>
+        <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">Go to Dodgers</asp:LinkButton>
+    </h2>
         <br />
         <div>
             <asp:Label ID="Label1" runat="server" Text="ID Token" Visible="False"></asp:Label>

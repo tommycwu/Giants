@@ -20,7 +20,7 @@ namespace WebApplication1
                     CookieAuthenticationDefaults.AuthenticationType);
             }
 
-            Response.Redirect("https://baseball.oktapreview.com/login/signout?fromURI=https://localhost:44382");
+            Response.Redirect("https://baseball.oktapreview.com/login/signout?fromURI=https://https://okta-certification.ngrok.io/giants/");
         }
     }
 }

@@ -7,12 +7,12 @@
     <script src="Scripts/jquery-3.4.1.min.js" type="text/javascript"></script>
     
     <div class="jumbotron">
-        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Login - giants.oktapreview.com" /> 
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Login at baseball.oktapreview.com" /> 
         <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="Logout" />
     </div> 
 
     <div class="row">
-        <asp:Image ID="Image1" runat="server" ImageUrl="~/Content/il_794xN.1252235423_3wlk.jpg" />
+        <asp:Image ID="Image1" runat="server" ImageUrl="~/Content/il_794xN.1252235423_3wlk.jpg" Width="200px" />
         <br />
         <br />
 &nbsp;

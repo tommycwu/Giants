@@ -93,5 +93,10 @@ namespace WebApplication1
                 row.Cells[1].Attributes.Add("id", $"claim-{row.Cells[0].Text}");
             }
         }
+
+        protected void LinkButton1_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("https://okta-certification.ngrok.io/dodgers/");
+        }
     }
 }
